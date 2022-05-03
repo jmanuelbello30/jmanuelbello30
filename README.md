@@ -1,7 +1,7 @@
 ### ¡Hola! Mi nombre es José Manuel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ---
 
-<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500">
+<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="450">
 
 `Sobre mi`
 
@@ -16,7 +16,7 @@
 
 `Tecnologías que he utilizado`
 
--  💻 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | MySQL | Ruby | Python | Git | MySQL
+💻 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | MySQL | Ruby | Python | Git | MySQL
 
 ---
 
