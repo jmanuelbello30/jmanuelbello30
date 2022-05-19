@@ -1,7 +1,7 @@
 ### ¡Hola! Mi nombre es José Manuel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ---
 
-<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="450">
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400">
 
 `Sobre mi`
 
@@ -22,7 +22,7 @@ HTML | CSS | JavaScript | Bootstrap | ReactJS | MySQL | Ruby | Python | Git | My
 
 `Conecta conmigo`
 
-<img src="https://c.tenor.com/FQCyuq7nSmYAAAAC/megaman-dance.gif" width="120" align='left'>
+<img src="https://c.tenor.com/FQCyuq7nSmYAAAAC/megaman-dance.gif" width="120" align="left">
 
 <p align="center">
 
