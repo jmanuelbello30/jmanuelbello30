@@ -6,9 +6,7 @@
 `Sobre mi`
 
 - Desde el 2019 en el mundo de la programación.
-
-- Actualmente formándome con las siguientes tecnologías: <code><a href="https://reactjs.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code><code><a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
-
+- 
 
 - Me gustan los videojuegos y leer sobre diversos temas. 
 
@@ -16,7 +14,7 @@
 
 `Tecnologías que he utilizado`
 
-HTML | CSS | JavaScript | Bootstrap | ReactJS | MySQL | Ruby | Python | Git | MySQL
+HTML | CSS | JavaScript | Bootstrap | ReactJS | Angular | Ionic | MySQL  Ruby | Python | Git | MySQL
 
 ---
 
