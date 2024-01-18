@@ -6,7 +6,6 @@
 `Sobre mi`
 
 - Desde el 2019 en el mundo de la programación.
-- 
 
 - Me gustan los videojuegos y leer sobre diversos temas. 
 
