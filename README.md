@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-283593?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belloal/)
 [![GitHub](https://img.shields.io/badge/GitHub-607D8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmanuelbello30)
-[![Email](https://img.shields.io/badge/Email-5C1800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmanuelbello30@gmail.com)
+[![Email](https://img.shields.io/badge/Email-5C1800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmanuebello30@gmail.com)
 ![Ubicación](https://img.shields.io/badge/Santiago%2C_Chile-F5F5F5?style=for-the-badge&logo=googlemaps&logoColor=283593&labelColor=F5F5F5)
 
 </div>
@@ -152,7 +152,7 @@ Estoy disponible para conversar sobre oportunidades, proyectos y colaboración p
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-283593?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belloal/)
-[![Email](https://img.shields.io/badge/Escríbeme_por_email-5C1800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmanuelbello30@gmail.com)
+[![Email](https://img.shields.io/badge/Escríbeme_por_email-5C1800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmanuebello30@gmail.com)
 
 </div>
 
