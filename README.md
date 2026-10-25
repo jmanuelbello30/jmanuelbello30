@@ -13,7 +13,7 @@
 
 `Tecnologías que he utilizado`
 
-HTML | CSS | JavaScript | Bootstrap | ReactJS | Angular | Ionic | MySQL  Ruby | Python | Git | MySQL
+HTML | CSS | Bootstrap | JavaScript | ReactJS | Angular | Ionic | Ruby | Rails | Python | Flask | Git | MySQL
 
 ---
 
